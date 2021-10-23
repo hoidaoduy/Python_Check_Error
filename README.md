@@ -1,0 +1,2 @@
+# Python_Check_Error
+Nội dung kiểm tra: data ngân hàng về giao dịch của khách.  Định nghĩa: - cột ngày tháng: (khi 90% giá trị của cột có định dạng là ngày tháng) và tìm bất thường trong cột - cột số: (khi 90% giá trị của cột có định dạng là số) và tìm bất thường trong cột - cột email: (khi 90% giá trị của cột có định dạng là email) và tìm bất thường trong cột  Nếu cột có giá trị lộn xộn thì coi như là cột text  Ký tự trống không tính là giá trị    dữ liệu trong csv:
